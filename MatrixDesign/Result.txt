@@ -15,7 +15,6 @@ Number of variable
 -	-	-	-	-	-	-	-	-	-	 
 
 #2 (input an odd number)
-
 Number of variable
 11
 -	-	-	-	-	-	-	-	-	-	-	 
