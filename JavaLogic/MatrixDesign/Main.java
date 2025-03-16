@@ -1,4 +1,4 @@
-package MatrixDesign;
+package JavaLogic.MatrixDesign;
 
 import java.util.*;
 

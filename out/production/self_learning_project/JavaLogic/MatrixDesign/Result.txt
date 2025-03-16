@@ -1,0 +1,30 @@
+result:
+
+#1 (input an even number)
+Number of variable
+10
+-	-	-	-	-	-	-	-	-	-	 
+-	-	B	B	B	B	B	B	-	-	 
+-	A	-	B	B	B	B	-	D	-	 
+-	A	A	-	B	B	-	D	D	-	 
+-	A	A	A	-	-	D	D	D	-	 
+-	A	A	A	-	-	D	D	D	-	 
+-	A	A	-	C	C	-	D	D	-	 
+-	A	-	C	C	C	C	-	D	-	 
+-	-	C	C	C	C	C	C	-	-	 
+-	-	-	-	-	-	-	-	-	-	 
+
+#2 (input an odd number)
+Number of variable
+11
+-	-	-	-	-	-	-	-	-	-	-	 
+-	-	B	B	B	B	B	B	B	-	-	 
+-	A	-	B	B	B	B	B	-	D	-	 
+-	A	A	-	B	B	B	-	D	D	-	 
+-	A	A	A	-	B	-	D	D	D	-	 
+-	A	A	A	A	-	D	D	D	D	-	 
+-	A	A	A	-	C	-	D	D	D	-	 
+-	A	A	-	C	C	C	-	D	D	-	 
+-	A	-	C	C	C	C	C	-	D	-	 
+-	-	C	C	C	C	C	C	C	-	-	 
+-	-	-	-	-	-	-	-	-	-	-	 
