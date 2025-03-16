@@ -2,8 +2,7 @@ hi
 i actually dont have any idea of this project.
 therefore, chatgpt to the rescue :)
 
-this project finished within 1 hour
-
+this project finished within 1 hour with no AI support
 ---------------------------------------------------------------------------------------------------------
 me:
 can you create a question of java oop related to soccer player?
